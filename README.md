@@ -24,10 +24,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-OS: Centos or Ubuntu
-Processor: Core I7
-Memory: 8GB 
-Storage: 100 GB
+<LI>OS: Centos or Ubuntu
+<LI>Processor: Core I7
+<LI>Memory: 8GB 
+<LI>Storage: 100 GB
 
 ## Related Products
 * [Hands-on Serverless Computing with Go [Video]](https://www.packtpub.com/application-development/hands-serverless-computing-go-video?utm_source=github&utm_medium=repository&utm_campaign=9781789132830)
